@@ -1,0 +1,15 @@
+{
+    "name": "e-web/php_router",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "eweb-ossy",
+            "email": "ossy2000@gmail.com"
+        }
+    ],
+    "require": {}
+}

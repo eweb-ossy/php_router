@@ -1,0 +1,8 @@
+# OS X
+.DS_Store
+
+# npm packages
+node_modules/
+
+# Composer
+vendor/
