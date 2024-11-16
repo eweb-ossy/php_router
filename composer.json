@@ -2,7 +2,7 @@
     "name": "e-web/php_router",
     "autoload": {
         "psr-4": {
-            "app\\": "app/"
+            "app\\": "./"
         }
     },
     "authors": [
@@ -11,5 +11,7 @@
             "email": "ossy2000@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "twig/twig": "^3.0"
+    }
 }
